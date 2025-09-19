@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 9931363858ac02a4eb7982adce57990b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_New
+    second: {fileID: 2100000, guid: 64a15a9b5a45def42a1328b1474999b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Invetor
+    second: {fileID: 2100000, guid: 3b8a5a9de0eb9b941a260eb87a684ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b28a91ad990df5842bd78cf40b3321b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pakad
+    second: {fileID: 2100000, guid: 67819e4803239ab46b445303ea6a09b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1_New
+    second: {fileID: 2100000, guid: 0b6b7a3f4894d9d4580b19c45e04f38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screw_driver
+    second: {fileID: 2100000, guid: c21ef9b948c8d3d4983f414383dcfbb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screw_fiting_mution
+    second: {fileID: 2100000, guid: 89a99112d0d49084189ad63611c43102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wiring
+    second: {fileID: 2100000, guid: b57a10d3029acd4449807f6116e4b67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bettry_glass
+    second: {fileID: 2100000, guid: 3a8c3bc142056af4dadb4d1d638a996e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_plastic
+    second: {fileID: 2100000, guid: 922b09cffff79dc47b42b8f360410479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: compaas
+    second: {fileID: 2100000, guid: c1e639959a19e0f418824bffdd39d84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: compas_glass
+    second: {fileID: 2100000, guid: 8ba7ed30adc0a7d43ac2451f58f06c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 369b1792dc0baff40ae83bfc47e184c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mcb
+    second: {fileID: 2100000, guid: f7b016eb52044a8448cfcce0aef147c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_stand
+    second: {fileID: 2100000, guid: e99356e5f310b6645bf8414a88807057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_steel_body
+    second: {fileID: 2100000, guid: a9766cd06c34bf04a8c3ae05618a4226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solar_plate
+    second: {fileID: 2100000, guid: bae9abc4877ffa2429739c858bfc9254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stiker_02
+    second: {fileID: 2100000, guid: 722e5772d8316954ba71787acb190389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wite_plastic
+    second: {fileID: 2100000, guid: 3e56305e658abd644b171380a21259cf, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0a29d4b1830a4ea6b69897708c110ed8_RGB_dewalt_Base_Color
+    second: {fileID: 2800000, guid: aa7d3de1fcf8895428ece8b611851a85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30d0f94904f44bcaa55c6231cc6cd502_RGB_Sticker_New_1_Base_color
+    second: {fileID: 2800000, guid: f0b6acc80cec0974f9a00f3c667cb3fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 93ab7be0d35b4b63bcfbdd5c416c2e12_N_TBattery_New_Normal
+    second: {fileID: 2800000, guid: 426734df76bf71f40916d758511d2bc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AVT_1P_AVT-1P_BaseColor
+    second: {fileID: 2800000, guid: 9ffbd929729fe904d8769986eaf4f416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AVT_1P_AVT-1P_Normal
+    second: {fileID: 2800000, guid: 17e57476aa85dbb409706555db1038e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GAP_2DAE03_Fekkes_Christina_C
+    second: {fileID: 2800000, guid: 28aa22287ed76444bb60f71969642639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GAP_2DAE03_Fekkes_Christina_N
+    second: {fileID: 2800000, guid: 9049d3f6c9034dd41af5d854cd34c37f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inverter_Base_color
+    second: {fileID: 2800000, guid: 20d418cd6bb5e6846a644e26f215a370, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inverter_Emissive
+    second: {fileID: 2800000, guid: e74a679a2ba314043a0b66007ba5b3cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inverter_Normal
+    second: {fileID: 2800000, guid: 3334878c4a357384b98c0951e971df80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plus-Mono-Silver---Straight-5-Bus
+    second: {fileID: 2800000, guid: dcb2dc66dde046b4380fceab21debf03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TBattery_New_Base_color
+    second: {fileID: 2800000, guid: 4b2c61c37097da8428d79215d4415bd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TBattery_New_Metallic
+    second: {fileID: 2800000, guid: 7d1b0d6fa5816a943bec62276ffc497a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wiring_Base_color
+    second: {fileID: 2800000, guid: 9cd08290473c65f4e9d904d0982536d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wiring_Normal_OpenGL
+    second: {fileID: 2800000, guid: 77339cdce54084c42b5f132145295ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ac507ca9006c4748a7216a123ae1b443_N_dewalt_Normal_OpenGL
+    second: {fileID: 2800000, guid: aa97721bafd07004db3fd30660078265, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_11_unwrapped_Material_BaseColor
+    second: {fileID: 2800000, guid: b373de802cdb5034fb5e77fe51695096, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_11_unwrapped_Material_Normal
+    second: {fileID: 2800000, guid: d51abe010de30ca4cb3481fdf555e4ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fb73612abbf049c698d55ff476360c1b_RGB_Sticker_New_2_Base_color
+    second: {fileID: 2800000, guid: faafb242e18b8cd4492603fefd398248, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lambert3_albedo
+    second: {fileID: 2800000, guid: 00df90d990c1bb5449cc03fc42f252a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lambert3_normal
+    second: {fileID: 2800000, guid: 3edffb10829560842a71da0b70a1db8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_stand_Base_color
+    second: {fileID: 2800000, guid: 8d06bafaf926f01429e7c31effdd1471, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_stand_Normal_OpenGL
+    second: {fileID: 2800000, guid: 584f7bcf39c7314498154d55663234ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screw_low_screw_BaseColor
+    second: {fileID: 2800000, guid: 6a08fce3230be514ba95f69ffe47b713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screw_low_screw_Normal
+    second: {fileID: 2800000, guid: 638e01eddb61a384a8ebd20c824a7e1f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
